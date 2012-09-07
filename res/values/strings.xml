@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Service Mode</string>
+    <string name="service_unavailable">FreeRIL OEM Service is unavailable.</string>
+    <string name="input">Input</string>
+    <string name="input_label">Input:</string>
+    <string name="quit">Quit</string>
+</resources>
